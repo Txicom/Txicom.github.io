@@ -22,7 +22,9 @@ title: 通过在本地搭建stable diffusion及使用已经训练完毕的模型
 > ```
 > extremely detailed CG unity 8k wallpaper, masterpiece
 > ```
+> {: file='prompt'}
 > **非常推荐**设置negative prompt:
 > ```
-> lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, > username, blurry
+> lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry
 > ```
+> {: file="negative prompt"}
